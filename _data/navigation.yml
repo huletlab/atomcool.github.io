@@ -1,0 +1,24 @@
+# Site navigation links
+
+- title: Welcome Page
+  url: /
+  excerpt:
+  image:
+
+
+- title: Group Members
+  url: /group-member
+  excerpt: 
+  image: 
+
+
+- title: Publications
+  url: /publications
+  excerpt:
+  image:
+
+
+- title: Join Us!
+  url: /join-us
+  excerpt:
+  image:
