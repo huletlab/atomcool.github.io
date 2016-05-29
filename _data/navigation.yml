@@ -11,6 +11,10 @@
   excerpt: 
   image: 
 
+- title: Research
+  url: /research
+  excerpt:
+  image:
 
 - title: Publications
   url: /publications
