@@ -52,7 +52,7 @@ Ya-Ting Chang
 
 [yc78@rice.edu](mailto:yc78@rice.edu)
 
-<img src="/images/groupphotos/eva.jpg" alt="" width="350" height="257">
+<img src="/images/bio-photo.jpg" alt="" width="350" height="257">
 
 Eva Jin
 
