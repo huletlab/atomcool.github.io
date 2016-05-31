@@ -1,18 +1,8 @@
 ---
 layout: article
-title: test
+title: New Hulet Lab Website
 image:
   teaser: test.png
   feature: test.png
 ---
-XXX
 
-XX
-
-X
-
-X
-
-X
-
-XX
