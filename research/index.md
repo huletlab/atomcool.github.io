@@ -7,10 +7,10 @@ title: "Research"
 
 <style>
 th {
-    padding: 10px;
+    width: 25%;
 }
 td {
-    padding: 50px;
+    width: 75%;
 }
 </style>
 
@@ -20,7 +20,7 @@ td {
 <tr>
 <th style="text-align: center; vertical-align: middle;">
 <h3 >Spin-Polarized Fermions in 1D and 3D&nbsp;</h3>
-<h3 ><img src="\images\groupphotos\exptphotos\Crossover_profile2.png" alt="" height="160" width="350"></h3>
+<h3 ><img src="\images\groupphotos\exptphotos\Crossover_profile2.png" alt="" height="46" width="100"></h3>
 </th>
 <td style="text-align: center; vertical-align: middle;">
 <p>We explore how superfluid pairing responds to an&nbsp;effective 
@@ -32,7 +32,7 @@ superfluid/superconducting state known as FFLO.</p>
 <tr>
 <th style="text-align: center; vertical-align: middle;">
 <h3>Fermions in an Optical Lattice</h3>
-<h3 ><img src="\images\groupphotos\exptphotos\app3cube.png" alt=""  width="350"></h3>
+<h3 ><img src="\images\groupphotos\exptphotos\app3cube.png" alt="" height="100" width="100"></h3>
 &nbsp;</th>
 <td style="text-align: center; vertical-align: middle;">
 <p>We have realized the 3D Hubbard model using spin-1/2 fermions in an 
@@ -46,7 +46,7 @@ physics may arise. The ultimate goal is to determine whether the Hubbard
 <tr>
 <th style="text-align: center; vertical-align: middle;">
 <h3>Bosons Near a Feshbach Resonance&nbsp;</h3>
-<h3><img src="\images\groupphotos\exptphotos\circular_v2.png" alt=""  width="350"></h3>
+<h3><img src="\images\groupphotos\exptphotos\circular_v2.png" alt="" height="140" width="100"></h3>
 &nbsp;</th>
 <td style="text-align: center; vertical-align: middle;">
 <p>In our bosonic lithium experiment we explore the broad Feshbach 
