@@ -24,7 +24,7 @@ title: "Welcome to Atomcool!"
 {{ about | markdownify }}
 
 </td>
-<td style="width: 500px; vertical-align: top;">
+<td style="width: 800px; vertical-align: top;">
 
 
 <div class="tiles">
